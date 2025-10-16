@@ -90,6 +90,8 @@ Build fails with TensorFlow.js errors	Use mock mode or delay TF.js load (already
 IndexedDB errors	Clear browser storage and restart
 Model not saving	Ensure you’re not in mock mode
 Slow performance	Use fewer epochs or disable GPU backend
+
+
 🧑‍💻 Author
 
 Vikas Nomula
