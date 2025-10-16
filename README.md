@@ -30,8 +30,8 @@ Alpha Vantage API key (for live stock data)
 
 ⚙️ Local Setup
 # Clone the repository
-git clone https://github.com/your-username/stock-predictor.git
-cd stock-predictor
+git clone https://github.com/your-username/Stock-Price-Predictor.git
+cd Stock-Price-Predictor
 
 # Install dependencies
 npm install
